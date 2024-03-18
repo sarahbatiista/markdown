@@ -7,3 +7,5 @@
 *Esta Página* tem _como_ objetivo testar o **markdown**
 
 ~Este texto será tachado~
+
+### Modificação para exemplo de commit pelo GitHub Desktop
